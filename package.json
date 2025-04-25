@@ -11,10 +11,14 @@
   },
   "dependencies": {
     "@syncfusion/ej2-react-buttons": "^28.2.7",
-    "@syncfusion/ej2-react-documenteditor": "^28.2.9",
+    "@syncfusion/ej2-react-documenteditor": "^28.2.11",
+    "@syncfusion/ej2-react-navigations": "^28.2.11",
     "@syncfusion/ej2-react-richtexteditor": "^28.2.11",
+    "file-saver": "^2.0.5",
+    "html-to-docx": "^1.8.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
